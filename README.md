@@ -1,18 +1,10 @@
-## Getting Started
+# Algorithms and Data Structures
+## task 05
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#### Task description
 
-## Folder Structure
+This is an example of how to use a linked list or a hash table for counting frequency / number of occurences of words in a text file (a clear text or source code can be used as an input).
 
-The workspace contains two folders by default, where:
+Create a program, which will open a text file for measuring the frequency (number of occurences) of words in a text file.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The results will be printed as a "histogram".
